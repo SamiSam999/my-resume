@@ -38,8 +38,8 @@ $en = document.getElementById("25").innerHTML ="<h3 style=color:blue;> Skills</h
 
 $en = document.getElementById("11").innerHTML ="<h3>EDUCATION</h3>";
 $en = document.getElementById("12").innerHTML ="<p > Bachelor’s Degree of Science Information Technology and Computing Arab Open University/ British Open University GPA 3.63 with First Class Honours. 2016-2020 <br/></p>";
-$en = document.getElementById("13").innerHTML ="<h3 >EXPERINCEs & Projects</h3> ";
-$ar = document.getElementById("20").innerHTML =" <span> IT specialist (Compliance Assessment, System Administrator)<br/>Mohammed Aldossary Sons Co. <br/> 01/2021-current. Saudi Arabia-Khobar</span> <br/>";
+$en = document.getElementById("13").innerHTML ="<h3 >EXPERINCES & PROJECTS</h3> ";
+$ar = document.getElementById("20").innerHTML =" <span> IT Specialist (Compliance Assessment, System Administrator)<br/>Mohammed Aldossary Sons Co. <br/> 01/2021-current. Saudi Arabia-Khobar</span> <br/>";
 $en = document.getElementById("14").innerHTML ="<spane >Signcryption Scheme:</spane> <br/>";
 $en = document.getElementById("15").innerHTML ="<span >Desktop Application (used for cyber security reasons).</span> <br/>";
 $en = document.getElementById("16").innerHTML ="<spane >Easy Tax:</spane><br/>";
