@@ -17,6 +17,7 @@ $ar = document.getElementById("25").innerHTML ="<h3 style=color:blue;> المه�
 $ar = document.getElementById("11").innerHTML ="<h3>التعليم</h3>";
 $ar = document.getElementById("12").innerHTML ="<p >درجة البكالوريوس في العلوم تقنية معلومات وحوسبة الجامعة العربية المفتوحة/الجامعة البريطانية المفتوحة بتقدير ممتاز/ مرتبة الشرف من الدرجة الأولى 2016-2020<br/></p>";
 $ar = document.getElementById("13").innerHTML ="<h3 >المشاريع</h3> ";
+ $ar = document.getElementById("20").innerHTML = "<span> أخصائي تقنية معلومات(فحص أمتثال,أدارة النظام)<br/> شركة أبناء محمد الدوسري 01/2021-لتاريخ الحالي <br/>الخبر-المملكة العربية السعودية</span> <br/>";
 $ar = document.getElementById("14").innerHTML ="<spane >نموذج التشفير التوقيعي:</spane> <br/>";
 $ar = document.getElementById("15").innerHTML ="<span >تطبيق مكتبي جافا (يستخدم لأغراض الأمن السيبراني)</span> <br/>";
 $ar = document.getElementById("16").innerHTML ="<spane > الضريبة السهلة: </spane><br/>";
@@ -37,7 +38,8 @@ $en = document.getElementById("25").innerHTML ="<h3 style=color:blue;> Skills</h
 
 $en = document.getElementById("11").innerHTML ="<h3>EDUCATION</h3>";
 $en = document.getElementById("12").innerHTML ="<p > Bachelor’s Degree of Science Information Technology and Computing Arab Open University/ British Open University GPA 3.63 with First Class Honours. 2016-2020 <br/></p>";
-$en = document.getElementById("13").innerHTML ="<h3 >PROJECTS EXPERINCE</h3> ";
+$en = document.getElementById("13").innerHTML ="<h3 >EXPERINCE</h3> ";
+$ar = document.getElementById("20").innerHTML ="";
 $en = document.getElementById("14").innerHTML ="<spane >Signcryption Scheme:</spane> <br/>";
 $en = document.getElementById("15").innerHTML ="<span >Desktop Application (used for cyber security reasons).</span> <br/>";
 $en = document.getElementById("16").innerHTML ="<spane >Easy Tax:</spane><br/>";
