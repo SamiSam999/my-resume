@@ -1,7 +1,7 @@
 function ar(){
     document.documentElement.dir = "rtl";
 var $ar = document.getElementById("1").innerHTML = "<h1 style=margin-right:45px>مــحــمــــد نـــــــور الســـــــحار</h1>";
- $ar = document.getElementById("2").innerHTML = "مـــطــور جــافــا";
+ $ar = document.getElementById("2").innerHTML = "مـــــــــطـــــور جـــــــافــــــا";
 $ar = document.getElementById("3").innerHTML =  '<h3 >الأنجازات والتكريم</h3>';
 $ar = document.getElementById("4").innerHTML =" <p >  عضو فريق الجامعة البرمجي للطلبة المتفوقين. شاركت بمسابقة (ألتقط العلم) ضمن فريق (دارك ويب)التي نظمتها منصة (سايبر هب) تحت مظلة الاتحاد السعودي للأمن السيبراني والبرمجة والدرونز لدعم قدرات الطلاب الجامعيين وفزنا بالمركز الأول في المملكة بالنسبة للجامعات الخاصةوالمركز الحادي عشر في المملكة العربية السعودية بالنسبة للجامعات ككل.   تم تقيم مشروعي من ضمن أفضل مشاريع التخرج وتكريمي من قبل الجامعة العربية المفتوحة للمشاركة بمسابقة المشاريع الأولى</p>";
 $ar = document.getElementById("21").innerHTML ="<span >: الخبر,السعودية</span>";
