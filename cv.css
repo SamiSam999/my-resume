@@ -43,13 +43,22 @@ margin-right: 25%;
     
      background:darkblue;
  }
- #b{
+ .btn{
     float:left;
-    margin:5px;
+    margin:2px;
     z-index: 2;
      background:white;
      color:blue;
+    
  }
+
+ #p{
+
+    width: 135px;
+  
+ }
+
+
 
 .lan{
     margin-top: 10px;
@@ -77,10 +86,10 @@ background-size: 100% 100%;
    
    
    @keyframes x{ 
-        0%{background-image:url("photos/sig.jpg") ;} 
-        33%{background-image:url("photos/va.jpg");} 
-       66%{background-image:url("photos/Capture.PNG");} 
-        100%{background-image:url("photos/vaa.jpg");} 
+        0%{background-image:url("photos/signo2.JPG") ;} 
+        33%{background-image:url("photos/VAT.JPG");} 
+       66%{background-image:url("photos/myphoto.PNG");} 
+        100%{background-image:url("photos/VAT2.JPG");} 
        
    } 
    li{
